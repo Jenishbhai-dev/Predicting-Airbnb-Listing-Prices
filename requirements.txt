@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+boto3
+s3fs
+mlflow
+python-dotenv
+jupyter
