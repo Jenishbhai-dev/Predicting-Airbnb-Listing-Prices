@@ -69,15 +69,15 @@ This repository implements a full machine learning pipeline—from data ingestio
 
 **A. MLflow Home with Experiments**
 
-![MLflow Home – Experiments](plot/Screenshot-2025-11-22-212433.jpg)
+![MLflow Home – Experiments](plot/1.png)
 
 **B. MLflow Experiment Run Table**
 
-![Experiment Runs Table](plot/Screenshot-2025-11-22-212722.jpg)
+![Experiment Runs Table](plot/2.png)
 
 **C. MLflow Run Detail – Random Forest Model**
 
-![Random Forest Run Detail](plot/Screenshot-2025-11-22-212604.jpg)
+![Random Forest Run Detail](plot/3.png)
 
 ---
 
